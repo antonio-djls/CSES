@@ -1,4 +1,4 @@
-# CSES Problem Solutions
+# CSES Soluções
 
 ![CSES](cses.png)
 
@@ -10,7 +10,7 @@ O objetivo principal é estudar algoritmos e estruturas de dados através da pr�
 
 ## Estrutura
 
-Cada diretório corresponde a uma seção do CSES, contendo as soluções implementadas em diferentes linguagens.
+Cada diretório corresponde a uma seção do CSES, contendo as soluções implementadas em C++.
 
 ## Conteúdo
 
